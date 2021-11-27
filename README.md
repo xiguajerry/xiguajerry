@@ -2,9 +2,7 @@
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=xiguajerry&count_private=true&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiguajerry&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)]
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xiguajerry&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiguajerry&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
 
 <!--
 **xiguajerry/xiguajerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
