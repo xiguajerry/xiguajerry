@@ -2,8 +2,7 @@
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=xiguajerry&include_all_commits=true&count_private=true&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=xiguajerry)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiguajerry)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xiguajerry&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
 
